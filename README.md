@@ -43,7 +43,7 @@ http://localhost:8501
 ## 📂 Project Directory Structure
 
 ```text
-aji proj/
+ proj/
 │
 ├── app.py                            # Streamlit web application dashboard
 ├── requirements.txt                  # Python dependencies
@@ -73,5 +73,3 @@ aji proj/
 
 ---
 
-## 🎓 SASTRA CSE 111 Rubric Compliance
-Refer to `viva_defense_guide.md` for complete answers to potential Viva-Voce questions, mathematical formulas, and phase-by-phase evaluation rubrics.
